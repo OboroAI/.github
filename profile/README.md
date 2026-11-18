@@ -23,5 +23,4 @@
 
 <p align="center">
   <a href="https://huggingface.co/oboro-ai/Oboro-Blink-1.0">Oboro-Blink-1.0</a>
-  &nbsp;·&nbsp;
 </p>
